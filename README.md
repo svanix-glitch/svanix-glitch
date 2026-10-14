@@ -80,9 +80,6 @@ status:     ✅ accepting pull requests (and job offers)
 
 ---
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=F7F5EF&title_color=E63946&icon_color=1D3A8A&text_color=1B1B1B&ring_color=E63946" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=F7F5EF&title_color=E63946&text_color=1B1B1B" />
-</p>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D3A8A,100:E63946&height=110&section=footer" width="100%" />
